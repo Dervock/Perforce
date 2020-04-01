@@ -1,5 +1,5 @@
 Just run these 3 commands:
 
-sudo wget https://raw.githubusercontent.com/Dervock/Perforce/master/P4D17Installer
-sudo chmod +x P4D17Installer
-sudo ./P4D17Installer
+sudo wget https://raw.githubusercontent.com/Dervock/Perforce/master/P4DInstaller
+sudo chmod +x P4DInstaller
+sudo ./P4DInstaller
